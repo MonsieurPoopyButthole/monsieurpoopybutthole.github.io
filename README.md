@@ -5,6 +5,9 @@
     whenever I'm not lazy to do it.
 
 
-
-    hiii person to who I sent this link and whose name may  
-    or may not begin with ans 'S' ✨✨
+    
+    To my ✨Pookiebear D✨, in warmth so true,
+    In yesteryears' style, my heart's song anew.
+    Through timeless ages, love's echo, so rare,
+    In whispers soft, I vow my care.
+    Ever thine, through days and nights so fair.
