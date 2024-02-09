@@ -1,3 +1,7 @@
 Docker mysql
 docker run --expose 3306 -p 4200:3306 --name some-mysql -e MYSQL_ROOT_PASSWORD=root -d -t mysql:latest
 mysqldump --opt -uroot -p(password) -B schema_name table_name > mysqlFileLocation.sql
+
+
+Open ports linux
+sudo lsof -i:22 ## see a specific port such as 22 ##
